@@ -53,7 +53,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Curated Papers
 
-- **Comming Soon**
+- **Coming Soon**
 
 ## Genome Mapping Projects
 
