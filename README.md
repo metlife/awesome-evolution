@@ -5,6 +5,17 @@ A curated list of awesome Evolution resources.  Please feel free to contribute!
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Evolution Blogs](#evolution-blogs)
+- [Evolution VLogs](#evolution-vlogs)
+- [Curated Papers](#curated-papers)
+- [Tools for Techies](#tools-for-techies)
+- [Visualization](#visualization)
+  - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
+- [Link Checking](#link-checking)
+- [Related Awesomes](#related-awesomes)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
