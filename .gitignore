@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Generated docs/build artifacts
+_site/
+_site/**
+public/
+public/**
+build/
+build/**
+dist/
+dist/**
+
+# Link checker cache/output
+.lycheecache
+lychee/

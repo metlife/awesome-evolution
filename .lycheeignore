@@ -1,0 +1,1 @@
+(^|/)(\.git|\.github|node_modules|vendor|dist|build)/
