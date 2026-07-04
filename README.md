@@ -88,9 +88,9 @@ The most prominent global consortia and projects actively mapping genomes across
 
 ### Plant, Fungi, & Symbiosis Networks
 
-- **[The 10,000 Plant Genomes Project (10KP)](https://cn.bgi.com/en/news/10kp/)** - An international initiative spearheaded by BGI (Beijing Genomics Institute) and global botanical partners aiming to sequence 10,000 plant species covering every major lineage of land plants and algae. This library provides a deep evolutionary view into how plant life transitioned from aquatic environments to terrestrial landscapes.
+- **[The 10,000 Plant Genomes Project (10KP)](https://db.cngb.org/10kp/)** - An international initiative spearheaded by BGI (Beijing Genomics Institute) and global botanical partners aiming to sequence 10,000 plant species covering every major lineage of land plants and algae. This library provides a deep evolutionary view into how plant life transitioned from aquatic environments to terrestrial landscapes.
 
-- **[The 1000 Fungal Genomes Project (1KFG)](https://mycocosm.jgi.doe.gov/programs/fungi/1kfg.jsf)** - Run by the Department of Energy Joint Genome Institute (JGI), this project is focused on mapping representative genomes across the entire kingdom of Fungi. It aims to fill deep gaps in the fungal tree of life to better map out carbon cycling, plant-fungal symbiotic relationships, and industrial enzyme discovery.
+- **[The 1000 Fungal Genomes Project (1KFG)](https://mycocosm.jgi.doe.gov/mycocosm/home/)** - Run by the Department of Energy Joint Genome Institute (JGI), this project is focused on mapping representative genomes across the entire kingdom of Fungi. It aims to fill deep gaps in the fungal tree of life to better map out carbon cycling, plant-fungal symbiotic relationships, and industrial enzyme discovery.
 
 ## Genome Browsers / Gene Diagrams
 
@@ -136,8 +136,6 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 - **[biodalliance](https://github.com/dasmoth/dalliance)** - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
   [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21252075/) | [web](http://www.biodalliance.org) ]
-
-- **[BioJS](https://github.com/biojs/biojs)** - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075290/) | [web](http://biojs.net/) ]
 
 - **[Circleator](https://github.com/jonathancrabtree/Circleator)** - Flexible circular visualization of genome-associated data with BioPerl and SVG. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075113) ]
 
