@@ -60,7 +60,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Curated Papers
 
-- **Comming Soon**
+- **Coming Soon**
 
 ## Genome Mapping Projects
 
@@ -82,7 +82,7 @@ The most prominent global consortia and projects actively mapping genomes across
 
 ### Regional Biota Mapping
 
-- **[The Darwin Tree of Life (DToL)](https://www.darwintreeoflife.org/)** - Based out of the Wellcome Sanger Institute, this massive operation is specifically focused on sequencing the genetic code of every single complex life eucharyotic form native to Great Britain and Ireland.
+- **[The Darwin Tree of Life (DToL)](https://www.darwintreeoflife.org/)** - Based out of the Wellcome Sanger Institute, this massive operation is specifically focused on sequencing the genetic code of every single complex life eukaryotic form native to Great Britain and Ireland.
 
 - **[European Reference Genome Atlas (ERGA)](https://www.erga-biodiversity.eu/)** - A pan-European scientific network creating a collaborative infrastructure to generate reference-quality genomes across thousands of threatened, endemic, or ecologically pivotal European species.
 
