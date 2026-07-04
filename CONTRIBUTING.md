@@ -6,7 +6,7 @@ Your contributions are always welcome!
 
 - Add section if needed.
   - Add section description.
-  - Add section title to Table of contents.
+  - Add section title to Table of Contents.
   - If the content has special access requirements mention it in bullet points beneath it.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Add your links: `* [resource-name](http://example.com/) - A short description ends with a dot.`
