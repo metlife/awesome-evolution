@@ -28,7 +28,7 @@ This Code of Conduct applies to all participation in this repository, including 
 
 ## Reporting
 
-If you experience or witness behavior that violates this Code of Conduct, please report it by opening a private maintainer contact request through repository discussions or by contacting the maintainers directly through GitHub.
+If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the maintainers directly. For sensitive reports, prefer a private channel (e.g., email/contact method listed in the repository); for non-sensitive reports, you may open an issue.
 
 Include as much relevant context as possible (links, screenshots, timestamps) so maintainers can review quickly and fairly.
 
