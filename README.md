@@ -62,7 +62,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Recommended Books
 
-- **[Human Evolution: Genes, Genealogies and Phylogenies](https://www.amazon.com/Human-Evolution-Genes-Genealogies-Phylogenies/dp/1107040124/)** - Controversy over human evolution remains widespread. However, the human genome project and genetic sequencing of many other species have provided myriad precise and unambiguous genetic markers that establish our evolutionary relationships with other mammals. Human Evolution: Genes, Genealogies and Phylogenies identifies and explains these identifiable, rare and complex markers including endogenous retroviruses, genome-modifying transposable elements, gene-disabling mutations, segmental duplications and gene-enabling mutations. 
+- **[Human Evolution: Genes, Genealogies and Phylogenies](https://www.amazon.com/Human-Evolution-Genes-Genealogies-Phylogenies/dp/1107040124/)** - Controversy over human evolution remains widespread. However, the human genome project and genetic sequencing of many other species have provided myriad precise and unambiguous genetic markers that establish our evolutionary relationships with other mammals. Human Evolution: Genes, Genealogies and Phylogenies identifies and explains these identifiable, rare and complex markers including endogenous retroviruses, genome-modifying transposable elements, gene-disabling mutations, segmental duplications and gene-enabling mutations.
 
 - **[The Selfish Gene: 50th Anniversary Edition](https://www.amazon.com/Selfish-Gene-50th-Anniversary-dp-019898538X/dp/019898538X/)** - Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.
 
@@ -80,7 +80,7 @@ Massive-scale, multi-species genome sequencing projects are reshaping our unders
 
 The most prominent global consortia and projects actively mapping genomes across vast numbers of species include the following:
 
-### Large Scale Genome Sequencing Projects 
+### Large Scale Genome Sequencing Projects
 
 - **[The Earth BioGenome Project (EBP)](https://www.earthbiogenome.org/)** - The EBP is the ultimate global network coordination effort. Its stated mission is to sequence, catalog, and characterize the genomes of all 1.67 million known eukaryotic species (plants, animals, fungi, and single-celled protozoa).
 
