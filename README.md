@@ -1,4 +1,5 @@
-# Awesome Evolution 
+# Awesome Evolution
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Check URLs](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml/badge.svg?branch=main)](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml)
 [![Super-Linter](https://github.com/MetLife/awesome-evolution/actions/workflows/linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
@@ -45,7 +46,11 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Human Evolution - Natural History Museum](https://www.nhm.ac.uk/discover/human-evolution.html)** - The Natural History Museum's human evolution hub provides an accessible overview of our species' history, tracking major anatomical and cultural milestones from the dawn of bipedalism to modern Homo sapiens. Through expert articles and fossil highlights, the page examines how changing environments shaped ancient hominin lineages and explores the cutting-edge DNA research used to trace human origins.
 
+- **[OneZoom](https://www.onezoom.org/)** - OneZoom is a visual masterpiece of computational biology. It provides an interactive, fractal-based, dynamic map of the evolutionary relationships between over 2.2 million living species.
+
 - **[The European Molecular Biology Laboratory](https://www.embl.org/)** - With support from more than 30 countries, the European Molecular Biology Laboratory (EMBL) has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.
+
+- **[National Academies of Sciences (Evolution Resources)](https://www.nationalacademies.org/evolution-resources/)** - As the premier scientific advisory body in the United States, the National Academies provide a definitive, authoritative resource hub validating the foundational role of evolution in modern science.
 
 ## Evolution Blogs
 
@@ -70,6 +75,8 @@ This list focuses on collecting and sharing information about biological evoluti
 - **[AronRa](https://www.youtube.com/user/AronRa)** - Aron Ra is an author, public speaker, and science communicator who serves as one of the most prominent advocates for evolutionary education on the web. His series "The Systematic Classification of Life" serves as an exhaustive, multi-part masterclass that tracks the human evolutionary lineage from single-celled eukaryotic organisms all the way to Homo sapiens, providing an uncompromised defense of common descent.
 
 - **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Outstanding content from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!
+
+- **[The Common Descent Podcast](https://commondescentpodcast.com/)** - Run by professional paleontologists and educators, this digital hub bridges the gap between deep time fossil records and modern evolutionary genetics.
 
 - **[PBS Eons](https://www.youtube.com/@eons/)** - Join hosts Kallie Moore, Michelle Barboza-Ramirez, Gabriel Santos, and Blake de Pastino as they take you on a journey through the history of life on Earth. From the dawn of life in the Archaean Eon through the Mesozoic Era — the so-called “Age of Dinosaurs” — right up to the end of the most recent Ice Age.
 
