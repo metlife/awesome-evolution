@@ -62,7 +62,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Recommended Books
 
-- **[Human Evolution: Genes, Genealogies and Phylogenies](https://www.amazon.com/Human-Evolution-Genes-Genealogies-Phylogenies/dp/1107040124/)** - Dr. Grameme Graeme is a retired Senior Lecturer in scientific pathology, Dept of Molecular Medicine and Pathology, and Honorary Senior Research Fellow, Auckland Cancer Society Research Centre, in the University of Auckland. The human genome project and genetic sequencing of many other species have provided myriad precise and unambiguous genetic markers that establish our evolutionary relationships with other mammals.
+- **[Human Evolution: Genes, Genealogies and Phylogenies](https://www.amazon.com/Human-Evolution-Genes-Genealogies-Phylogenies/dp/1107040124/)** - Dr. Graeme Finlay is a retired Senior Lecturer in scientific pathology, Department of Molecular Medicine and Pathology, and Honorary Senior Research Fellow, Auckland Cancer Society Research Centre, at the University of Auckland. The human genome project and genetic sequencing of many other species have provided myriad precise and unambiguous genetic markers that establish our evolutionary relationships with other mammals.
 
 - **[The Selfish Gene: 50th Anniversary Edition](https://www.amazon.com/Selfish-Gene-50th-Anniversary-dp-019898538X/dp/019898538X/)** - Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.
 
