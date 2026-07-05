@@ -23,7 +23,6 @@ jobs:
           fail: true
           args: >-
             --verbose
-            --root-dir "$(pwd)"
             --cache
             --max-cache-age 1d
             --no-progress
