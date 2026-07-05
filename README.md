@@ -37,7 +37,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Understanding Evolution - Evolution 101](https://evolution.berkeley.edu/evolution-101/)** - This site is a project of the University of California Museum of Paleontology (UCMP). What is evolution and how does it work? Evolution 101 provides the nuts-and-bolts on the patterns and mechanisms of evolution.
 
-- **[Human Evolution - Natural History Museum](https://www.nhm.ac.uk/discover/human-evolution.html/)** - The Natural History Museum's human evolution hub provides an accessible overview of our species' history, tracking major anatomical and cultural milestones from the dawn of bipedalism to modern Homo sapiens. Through expert articles and fossil highlights, the page examines how changing environments shaped ancient hominin lineages and explores the cutting-edge DNA research used to trace human origins.
+- **[Human Evolution - Natural History Museum](https://www.nhm.ac.uk/discover/human-evolution.html)** - The Natural History Museum's human evolution hub provides an accessible overview of our species' history, tracking major anatomical and cultural milestones from the dawn of bipedalism to modern Homo sapiens. Through expert articles and fossil highlights, the page examines how changing environments shaped ancient hominin lineages and explores the cutting-edge DNA research used to trace human origins.
 
 - **[The European Molecular Biology Laboratory](https://www.embl.org/)** - With support from more than 30 countries, the European Molecular Biology Laboratory (EMBL) has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.
 
@@ -97,7 +97,7 @@ The most prominent global consortia and projects actively mapping genomes across
 
 - **[The Bat1K Project](https://bat1k.com/)** - A specialized consortium focused on sequencing the genomes of all ~1,400 living bat species.
 
-- **[Project Psyche](https://www.sanger.ac.uk/project/project-psyche/)** - A massive European effort specifically targeting the order Lepidoptera. Project Psyche aims to sequence the genomes of all 11,000 moth and butterfly species across Europe.
+- **[Project Psyche](https://www.sanger.ac.uk/collaboration/project-psyche/)** - A massive European effort specifically targeting the order Lepidoptera. Project Psyche aims to sequence the genomes of all 11,000 moth and butterfly species across Europe.
 
 ### Regional Biota Mapping
 
@@ -157,7 +157,7 @@ If you are doing research focused on specific branches of life, generic browsers
 - [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics)
 - [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell)
 - [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
-- [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases)
+- [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-resources)
 - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)
 - [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow)
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
