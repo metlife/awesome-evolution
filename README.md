@@ -23,8 +23,8 @@ This list focuses on collecting and sharing information about biological evoluti
   - [Plant, Fungi, & Symbiosis Networks](#plant-fungi--symbiosis-networks)
 - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Online Multi-Species Browsers](#online-multi-species-browsers)
-  - [Next-Gen Web Browsers (For Custom/Local Data)](#next-gen-web-browsers-for-customlocal-data)
   - [Specialized Model Organism Browsers](#specialized-model-organism-browsers)
+  - [Next-Gen Web Browsers (For Custom/Local Data)](#next-gen-web-browsers-for-customlocal-data)
 - [Related Awesomes](#related-awesomes)
 - [Link Checking](#link-checking)
 - [License](#license)
@@ -127,16 +127,6 @@ These are the gold standards of the bioinformatics community, hosting massive re
 
 - **[NCBI Sequence Viewer (formerly MapViewer)](https://www.ncbi.nlm.nih.gov/)** - Maintained by the National Center for Biotechnology Information, this browser seamlessly integrates with the entire NCBI/PubMed ecosystem.
 
-### Next-Gen Web Browsers (For Custom/Local Data)
-
-If you have your own data files (like .bam, .vcf, .bed, or .bigWig) and want a modern, fast interface to visualize them online without uploading them to a public server, these tools run locally in your web client.
-
-- **[IGV-Web (Integrative Genomics Viewer)](https://igv.org/app/)** - Developed by the Broad Institute, IGV is a legendary desktop tool that now features a highly optimized web-app version.
-
-- **[JBrowse 2 Web Demo](https://jbrowse.org/jb2/)** - JBrowse is an open-source, next-generation browser built entirely on modern JavaScript/HTML5.
-
-- **[Lucid Align](https://www.lucidalign.com/)** - A modern sequence alignment viewer. Fast performance & intuitive navigation help you focus on the science.
-
 ### Specialized Model Organism Browsers
 
 If you are doing research focused on specific branches of life, generic browsers can sometimes be cluttered. Specialized portals use tailored frameworks to display specific evolutionary lines:
@@ -148,6 +138,16 @@ If you are doing research focused on specific branches of life, generic browsers
 - **[TAIR (The Arabidopsis Information Resource)](https://www.arabidopsis.org/)** - The standard gateway for plant genomics, focusing on the model plant Arabidopsis thaliana.
 
 - **[SGD (Saccharomyces Genome Database)](https://www.yeastgenome.org/)** - The ultimate portal for budding yeast genomics, highly relevant for studying basic eukaryotic cell evolution.
+
+### Next-Gen Web Browsers (For Custom/Local Data)
+
+If you have your own data files (like .bam, .vcf, .bed, or .bigWig) and want a modern, fast interface to visualize them online without uploading them to a public server, these tools run locally in your web client.
+
+- **[IGV-Web (Integrative Genomics Viewer)](https://igv.org/app/)** - Developed by the Broad Institute, IGV is a legendary desktop tool that now features a highly optimized web-app version.
+
+- **[JBrowse 2 Web Demo](https://jbrowse.org/jb2/)** - JBrowse is an open-source, next-generation browser built entirely on modern JavaScript/HTML5.
+
+- **[Lucid Align](https://www.lucidalign.com/)** - A modern sequence alignment viewer. Fast performance & intuitive navigation help you focus on the science.
 
 ## Related Awesomes
 
