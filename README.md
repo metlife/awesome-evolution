@@ -10,7 +10,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+## Contents
 
 - [Evolutionary Science and Related Sites](#evolutionary-science-and-related-sites)
 - [Evolution Blogs](#evolution-blogs)
@@ -25,7 +25,7 @@ This list focuses on collecting and sharing information about biological evoluti
   - [Online Multi-Species Browsers](#online-multi-species-browsers)
   - [Next-Gen Web Browsers (For Custom/Local Data)](#next-gen-web-browsers-for-customlocal-data)
   - [Specialized Model Organism Browsers](#specialized-model-organism-browsers)
-  - [Needs Curation for Currency](#needs-curation-for-currency)
+  - [Locally Installable](#locally-installable)
 - [Related Awesomes](#related-awesomes)
 - [Link Checking](#link-checking)
 - [License](#license)
