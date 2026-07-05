@@ -1,4 +1,10 @@
-# Awesome Evolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check URLs](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml/badge.svg?branch=main)](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml)
+# Awesome Evolution 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Check URLs](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml/badge.svg?branch=main)](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml)
+[![Super-Linter](https://github.com/MetLife/awesome-evolution/actions/workflows/linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![Dependabot Status](https://img.shields.io/badge/Dependabot-active-brightgreen.svg?logo=dependabot)](https://github.com/MetLife/awesome-evolution/network/updates)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 
 A curated list of awesome Evolution resources.  Please feel free to contribute!
 
