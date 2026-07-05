@@ -54,7 +54,7 @@ This is an **awesome list** repository curating evolution-related resources. The
 - Code blocks are exempt from line-length rules
 
 ### Link Checking
-- Lycheé validates all URLs on push/PR
+- Lychee validates all URLs on push/PR
 - `.lycheeignore` file contains patterns for excluded URLs
 - Some URLs may be intentionally ignored if they have accessibility issues
 
