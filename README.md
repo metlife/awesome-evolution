@@ -42,11 +42,23 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Stated Clearly](https://www.statedclearly.com/)** - To promote critical thinking and a love for exploration by introducing the public to the scientific process. We do this through information‑rich animations that explain scientific topics with friendly language and illustrations.
 
+- **[Sandwalk - Strolling with a skeptical biochemist](https://sandwalk.blogspot.com/)** - Larry Moran is a Professor Emeritus in the Department of Biochemistry at the University of Toronto. Professor Moran deep dives into population genetics and molecular evolution.
+
+- **[John Hawks – John Hawks Weblog](https://www.johnhawks.net/)** - Dr. John Hawks is a world-renowned paleoanthropologist and professor at the University of Wisconsin–Madison. If your interest in evolution leans toward human origins, transitional fossils, and ancient DNA, Hawks' blog is unmatched.
+
+- **[Carl Zimmer](https://carlzimmer.com/category/articles/)** - Autir and science journalist for the New York Times with a strong focus on macroevolution, the intricacies of viral evolution (including endogenous retroviruses), and how parasites shape the tree of life.
+
+- **[Panda's Thumb](https://pandasthumb.org/)** - The Panda's Thumb is a massive collective of highly popular evolutionary biologists, mathematicians, and paleontologists (such as Nick Matzke, Wesley Elsberry, and various NCSE members). This is arguably the most influential group-run evolution blog on the web.
+
 - **[Talk Origins Archive](https://talkorigins.org/)** - Talk.origins is a Usenet newsgroup devoted to the discussion and debate of biological and physical origins. Most discussions in the newsgroup center on the creation/evolution controversy, but other topics of discussion include the origin of life, geology, biology, catastrophism, cosmology, and theology.
 
 ## Science and Evolution Communicators
 
-- **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Videos from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!
+- **[AronRa](https://www.youtube.com/user/AronRa)** - Aron Ra is an author, public speaker, and science communicator who serves as one of the most prominent advocates for evolutionary education on the web. The Systematic Classification of Life," serves as an exhaustive, multi-part masterclass that tracks the human evolutionary lineage from single-celled eukaryotic organisms all the way to Homo sapiens, providing an uncompromised defense of common descent.
+
+- **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Outstanding content from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!
+
+- **[PBS Eons](https://www.youtube.com/@eons/)** - Join hosts Kallie Moore, Michelle Barboza-Ramirez, Gabriel Santos, and Blake de Pastino as they take you on a journey through the history of life on Earth. From the dawn of life in the Archaean Eon through the Mesozoic Era — the so-called “Age of Dinosaurs” -- right up to the end of the most recent Ice Age.
 
 ## Recommended Books
 
