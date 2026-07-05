@@ -50,8 +50,8 @@ This is an **awesome list** repository curating evolution-related resources. The
 ### Super-Linter Configuration
 - The repo uses `super-linter v8.7.0` with markdown validation enabled
 - Configuration file: `.markdownlint.yaml`
-- Configured to allow lines up to 500 characters
-- Code blocks are exempt from line-length rules
+- Configured to allow lines up to 700 characters
+- Code blocks are included in line-length rules (MD013 `code_blocks: true`)
 
 ### Link Checking
 - Lychee validates all URLs on push/PR
