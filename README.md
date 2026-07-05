@@ -46,7 +46,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[John Hawks – John Hawks Weblog](https://www.johnhawks.net/)** - Dr. John Hawks is a world-renowned paleoanthropologist and professor at the University of Wisconsin–Madison. If your interest in evolution leans toward human origins, transitional fossils, and ancient DNA, Hawks' blog is unmatched.
 
-- **[Carl Zimmer](https://carlzimmer.com/category/articles/)** - Autir and science journalist for the New York Times with a strong focus on macroevolution, the intricacies of viral evolution (including endogenous retroviruses), and how parasites shape the tree of life.
+- **[Carl Zimmer](https://carlzimmer.com/category/articles/)** - Author and science journalist for the New York Times with a strong focus on macroevolution, the intricacies of viral evolution (including endogenous retroviruses), and how parasites shape the tree of life.
 
 - **[Panda's Thumb](https://pandasthumb.org/)** - The Panda's Thumb is a massive collective of highly popular evolutionary biologists, mathematicians, and paleontologists (such as Nick Matzke, Wesley Elsberry, and various NCSE members). This is arguably the most influential group-run evolution blog on the web.
 
