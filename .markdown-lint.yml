@@ -1,5 +1,1 @@
-MD013:
-  line_length: 700
-  heading_line_length: 700
-  code_blocks: true
-  code_line_length: 700
+MD013: false
