@@ -2,3 +2,4 @@
 https://mycocosm.jgi.doe.gov/mycocosm/home/
 https://www.arabidopsis.org/
 https://www.wormbase.org/
+^https://www\.ensembl\.org/?$
