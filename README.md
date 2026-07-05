@@ -1,4 +1,4 @@
-# Awesome Evolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/org/repo/actions/workflows/links.yml/badge.svg)](https://github.com/org/repo/actions/workflows/links.yml)
+# Awesome Evolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check URLs](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml/badge.svg?branch=main)](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml)
 
 A curated list of awesome Evolution resources.  Please feel free to contribute!
 
