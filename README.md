@@ -1,6 +1,8 @@
-# Awesome-Evolution
+# Awesome Evolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Evolution resources.  Please feel free to contribute!
+
+[<img src="images/awesome-evolution-logo.png" align="right" width="100">](https://en.wikipedia.org/wiki/Evolution)
 
 > Evolution is the change in the heritable characteristics of biological populations over successive generations. It occurs when evolutionary processes such as genetic drift and natural selection act on genetic variation, resulting in certain characteristics becoming more or less common within a population over successive generations. The process of evolution has given rise to biodiversity at every level of biological organisation.
 
@@ -31,6 +33,12 @@ This list focuses on collecting and sharing information about biological evoluti
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Evolutionary Science and Related Sites
+
+- **[Understanding Science - Understanding Science 101](https://undsci.berkeley.edu/)** - This site is a project of the University of California Museum of Paleontology (UCMP). Learn what science is, how it works, and how it connects to your life.
+
+- **[Understanding Evolution - Evolution 101](https://evolution.berkeley.edu/evolution-101/)** - This site is a project of the University of California Museum of Paleontology (UCMP). What is evolution and how does it work? Evolution 101 provides the nuts-and-bolts on the patterns and mechanisms of evolution.
+
+- **[Human Evolution - Natural History Museum](https://www.nhm.ac.uk/discover/human-evolution.html/)** - The Natural History Museum's human evolution hub provides an accessible overview of our species' history, tracking major anatomical and cultural milestones from the dawn of bipedalism to modern Homo sapiens. Through expert articles and fossil highlights, the page examines how changing environments shaped ancient hominin lineages and explores the cutting-edge DNA research used to trace human origins.
 
 - **[The European Molecular Biology Laboratory](https://www.embl.org/)** - With support from more than 30 countries, the European Molecular Biology Laboratory (EMBL) has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.
 
