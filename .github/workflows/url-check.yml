@@ -8,9 +8,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
+
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --verbose --no-progress './**/*.md'
+          args: --verbose --no-progress --timeout=30 './**/*.md' 

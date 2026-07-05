@@ -25,7 +25,6 @@ This list focuses on collecting and sharing information about biological evoluti
   - [Online Multi-Species Browsers](#online-multi-species-browsers)
   - [Next-Gen Web Browsers (For Custom/Local Data)](#next-gen-web-browsers-for-customlocal-data)
   - [Specialized Model Organism Browsers](#specialized-model-organism-browsers)
-  - [Locally Installable](#locally-installable)
 - [Related Awesomes](#related-awesomes)
 - [Link Checking](#link-checking)
 - [License](#license)
@@ -38,7 +37,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Understanding Evolution - Evolution 101](https://evolution.berkeley.edu/evolution-101/)** - This site is a project of the University of California Museum of Paleontology (UCMP). What is evolution and how does it work? Evolution 101 provides the nuts-and-bolts on the patterns and mechanisms of evolution.
 
-- **[Human Evolution - Natural History Museum](https://www.nhm.ac.uk/discover/human-evolution.html/)** - The Natural History Museum's human evolution hub provides an accessible overview of our species' history, tracking major anatomical and cultural milestones from the dawn of bipedalism to modern Homo sapiens. Through expert articles and fossil highlights, the page examines how changing environments shaped ancient hominin lineages and explores the cutting-edge DNA research used to trace human origins.
+- **[Human Evolution - Natural History Museum](https://www.nhm.ac.uk/discover/human-evolution.html)** - The Natural History Museum's human evolution hub provides an accessible overview of our species' history, tracking major anatomical and cultural milestones from the dawn of bipedalism to modern Homo sapiens. Through expert articles and fossil highlights, the page examines how changing environments shaped ancient hominin lineages and explores the cutting-edge DNA research used to trace human origins.
 
 - **[The European Molecular Biology Laboratory](https://www.embl.org/)** - With support from more than 30 countries, the European Molecular Biology Laboratory (EMBL) has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.
 
@@ -98,7 +97,7 @@ The most prominent global consortia and projects actively mapping genomes across
 
 - **[The Bat1K Project](https://bat1k.com/)** - A specialized consortium focused on sequencing the genomes of all ~1,400 living bat species.
 
-- **[Project Psyche](https://www.sanger.ac.uk/project/project-psyche/)** - A massive European effort specifically targeting the order Lepidoptera. Project Psyche aims to sequence the genomes of all 11,000 moth and butterfly species across Europe.
+- **[Project Psyche](https://www.sanger.ac.uk/collaboration/project-psyche/)** - A massive European effort specifically targeting the order Lepidoptera. Project Psyche aims to sequence the genomes of all 11,000 moth and butterfly species across Europe.
 
 ### Regional Biota Mapping
 
@@ -124,7 +123,7 @@ These are the gold standards of the bioinformatics community, hosting massive re
 
 - **[UCSC Genome Browser](https://genome.ucsc.edu/)** - Developed by the University of California, Santa Cruz, this is arguably the most famous and widely utilized genome browser in the world.
 
-- **[Ensembl Genome Browser](https://www.ensembl.org/) - A joint project between EMBL-EBI and the Wellcome Sanger Institute, Ensembl focuses heavily on high-quality annotation, particularly for vertebrate genomes.
+- **[Ensembl Genome Browser](https://www.ensembl.org/)** - A joint project between EMBL-EBI and the Wellcome Sanger Institute, Ensembl focuses heavily on high-quality annotation, particularly for vertebrate genomes.
 
 - **[NCBI Sequence Viewer (formerly MapViewer)](https://www.ncbi.nlm.nih.gov/)** - Maintained by the National Center for Biotechnology Information, this browser seamlessly integrates with the entire NCBI/PubMed ecosystem.
 
@@ -135,6 +134,8 @@ If you have your own data files (like .bam, .vcf, .bed, or .bigWig) and want a m
 - **[IGV-Web (Integrative Genomics Viewer)](https://igv.org/app/)** - Developed by the Broad Institute, IGV is a legendary desktop tool that now features a highly optimized web-app version.
 
 - **[JBrowse 2 Web Demo](https://jbrowse.org/jb2/)** - JBrowse is an open-source, next-generation browser built entirely on modern JavaScript/HTML5.
+
+- **[Lucid Align](https://www.lucidalign.com/)** - A modern sequence alignment viewer. Fast performance & intuitive navigation help you focus on the science.
 
 ### Specialized Model Organism Browsers
 
@@ -148,16 +149,6 @@ If you are doing research focused on specific branches of life, generic browsers
 
 - **[SGD (Saccharomyces Genome Database)](https://www.yeastgenome.org/)** - The ultimate portal for budding yeast genomics, highly relevant for studying basic eukaryotic cell evolution.
 
-### Locally Installable
-
-The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more. These tools can be run locally (often in a browser) as standalone viewers or embedded in other pages.
-
-- **[IGV js](https://github.com/igvteam/igv)** - JavaScript-based genome browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383/) | [web](https://igv.org/doc/igvjs/) ]
-
-- **[JBrowse](https://github.com/GMOD/jbrowse)** - JavaScript genome browser that is highly customizable via plugins and track customizations. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27072794/) | [web](https://jbrowse.org/jb2/) ]
-
-- **Lucid Align** - A modern sequence alignment viewer. [ [web](https://www.lucidalign.com/) ]
-
 ## Related Awesomes
 
 - [Awesome-Biology](https://github.com/raivivek/awesome-biology/)
@@ -166,7 +157,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 - [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics)
 - [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell)
 - [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
-- [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases)
+- [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-resources)
 - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)
 - [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow)
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
