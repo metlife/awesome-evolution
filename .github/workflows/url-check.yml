@@ -10,8 +10,24 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@7da8ec1fc4e01b5a12062ac6c589c10a4ce70d67 # for v2.0.0
         with:
           fail: true
-          args: --verbose --no-progress --timeout=30 './**/*.md' 
+          args: >-
+            --verbose
+            --root-dir "$(pwd)"
+            --cache
+            --max-cache-age 1d
+            --no-progress
+            --timeout=30
+            --max-retries 2
+            --accept 200,206,403,429
+            './**/*.md' 
