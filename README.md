@@ -150,7 +150,7 @@ If you are doing research focused on specific branches of life, generic browsers
 
 ### Locally Installable
 
-The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more. These are standalone aplications.
+The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more. These tools can be run locally (often in a browser) as standalone viewers or embedded in other pages.
 
 - **[IGV js](https://github.com/igvteam/igv)** - JavaScript-based genome browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383/) | [web](https://igv.org/doc/igvjs/) ]
 
