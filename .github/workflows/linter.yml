@@ -18,7 +18,6 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-          
       - name: Lint Code Base
         uses: super-linter/super-linter/slim@v8.7.0
         env:
