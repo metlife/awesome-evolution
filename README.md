@@ -1,5 +1,5 @@
 # Awesome Evolution 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Check URLs](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml/badge.svg?branch=main)](https://github.com/MetLife/awesome-evolution/actions/workflows/url-check.yml)
 [![Super-Linter](https://github.com/MetLife/awesome-evolution/actions/workflows/linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Dependabot Status](https://img.shields.io/badge/Dependabot-active-brightgreen.svg?logo=dependabot)](https://github.com/MetLife/awesome-evolution/network/updates)
