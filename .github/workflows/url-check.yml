@@ -14,4 +14,4 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --verbose --no-progress --timeout=30 --accept-timeouts './**/*.md' 
+          args: --verbose --no-progress --timeout=30 './**/*.md' 
