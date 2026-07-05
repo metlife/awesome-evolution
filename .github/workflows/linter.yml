@@ -18,6 +18,12 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
+      - name: Debug markdownlint config
+        run: |
+          pwd
+          ls -la
+          test -f .markdown-lint.yml && echo "found config" || echo "missing config"
+          sed -n '1,120p' .markdown-lint.yml
       - name: Lint Code Base
         uses: super-linter/super-linter/slim@v8.7.0
         env:
