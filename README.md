@@ -25,7 +25,6 @@ This list focuses on collecting and sharing information about biological evoluti
   - [Online Multi-Species Browsers](#online-multi-species-browsers)
   - [Next-Gen Web Browsers (For Custom/Local Data)](#next-gen-web-browsers-for-customlocal-data)
   - [Specialized Model Organism Browsers](#specialized-model-organism-browsers)
-  - [Locally Installable](#locally-installable)
 - [Related Awesomes](#related-awesomes)
 - [Link Checking](#link-checking)
 - [License](#license)
