@@ -55,7 +55,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Human Origins
 
-- **[Smothsonian Museum of Natural History](https://humanorigins.si.edu/)** - Maintained by the National Museum of Natural History, this is arguably the single most comprehensive and interactive portal on human prehistory available online.
+- **[Smithsonian Museum of Natural History](https://humanorigins.si.edu/)** - Maintained by the National Museum of Natural History, this is arguably the single most comprehensive and interactive portal on human prehistory available online.
 
 - **[AfricanFossils.org](https://africanfossils.org/)** - Created in collaboration with the Leakey Foundation and the National Museums of Kenya, this unique digital laboratory acts as a virtual anthropology museum.
 
