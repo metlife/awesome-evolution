@@ -9,7 +9,7 @@
 
 A curated list of awesome Evolution resources.  Please feel free to contribute!
 
-[<img src="images/awesome-evolution-logo.png" alt="Awesome Evolution logo" align="right" width="100">](https://github.com/MetLife/awesome-evolution/blob/main/images/awesome-evolution-logo.png)
+[<img src="https://github.com/MetLife/awesome-evolution/raw/main/images/awesome-evolution-logo.png" alt="Awesome Evolution logo" align="right" width="100">](https://github.com/MetLife/awesome-evolution/raw/main/images/awesome-evolution-logo.png)
 
 > Evolution is the change in the heritable characteristics of biological populations over successive generations. It occurs when evolutionary processes such as genetic drift and natural selection act on genetic variation, resulting in certain characteristics becoming more or less common within a population over successive generations. The process of evolution has given rise to biodiversity at every level of biological organisation.
 
