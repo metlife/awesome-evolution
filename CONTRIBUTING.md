@@ -21,4 +21,4 @@ Your contributions are always welcome!
 
 ## I want to suggest a change
 
-- Start a Discussion describing the content and why its Awesome
+- Start a discussion describing the content and why it's awesome.
