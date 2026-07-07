@@ -101,7 +101,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Why Evolution Is True](https://www.amazon.com/dp/0143116649/ref=mes-dp/)** - Jerry A. Coyne dispels common misunderstandings and fears about evolution and clearly confirms the scientific truth that supports this amazing process of change. Weaving together the many threads of modern work in genetics, paleontology, geology, molecular biology, and anatomy that demonstrate the "indelible stamp" of the processes first proposed by Charles Darwin.
 
-- **[The Greatest Show on Earth: The Evidence for Evolution](https://www.amazon.com/Greatest-Show-Earth-Evidence-Evolution/dp/1416594783/)** - In this book, Richard Dawkins presents the evidence for evolution in a way that is accessible to the general public. He explains how natural selection works and provides numerous examples from the natural world to illustrate the power of evolutionary processes.
+- **[The Greatest Show on Earth: The Evidence for Evolution](https://www.amazon.com/Greatest-Show-Earth-Evidence-Evolution/dp/055277524X/)** - In this book, Richard Dawkins presents the evidence for evolution in a way that is accessible to the general public. He explains how natural selection works and provides numerous examples from the natural world to illustrate the power of evolutionary processes.
 
 ## Curated Papers
 
