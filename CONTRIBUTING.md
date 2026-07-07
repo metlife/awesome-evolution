@@ -4,6 +4,10 @@ Your contributions are always welcome!
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [Contribute via Git](#contribute-via-git)
+- [I want to suggest a change](#i-want-to-suggest-a-change)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
