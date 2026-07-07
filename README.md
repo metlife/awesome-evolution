@@ -115,9 +115,9 @@ PLOS is a mission-driven open science publisher covering all scientific discipli
 
 - **[Evolutionary Biology](https://journals.plos.org/plosone/browse/evolutionary_biology)** - PLOS ONE is a peer-reviewed open access scientific journal published by the Public Library of Science (PLOS) since 2006. PLOS ONE accepts research in all areas of science and medicine, including evolutionary biology.
 
-- **[PLOS Biology: Evolutionary Biology](https://journals.plos.org/plosbiology/browse/evolutionary_biology)** - PLOS Biology is a peer-reviewed scientific journal covering all aspects of biology, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2003.
+- **[PLOS Biology: Evolutionary Biology](https://journals.plos.org/plosbiology/)** - PLOS Biology is a peer-reviewed scientific journal covering all aspects of biology, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2003.
 
-- **[PLOS Genetics: Evolutionary Biology](https://journals.plos.org/plosgenetics/browse/evolutionary_biology)** - PLOS Genetics is a peer-reviewed scientific journal covering all aspects of genetics, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2005.
+- **[PLOS Genetics: Evolutionary Biology](https://journals.plos.org/plosgenetics/)** - PLOS Genetics is a peer-reviewed scientific journal covering all aspects of genetics, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2005.
 
 ### Search
 
