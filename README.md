@@ -101,9 +101,25 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Why Evolution Is True](https://www.amazon.com/dp/0143116649/ref=mes-dp/)** - Jerry A. Coyne dispels common misunderstandings and fears about evolution and clearly confirms the scientific truth that supports this amazing process of change. Weaving together the many threads of modern work in genetics, paleontology, geology, molecular biology, and anatomy that demonstrate the "indelible stamp" of the processes first proposed by Charles Darwin.
 
+- **[The Greatest Show on Earth: The Evidence for Evolution](https://www.amazon.com/Greatest-Show-Earth-Evidence-Evolution/dp/1416594783/)** - In this book, Richard Dawkins presents the evidence for evolution in a way that is accessible to the general public. He explains how natural selection works and provides numerous examples from the natural world to illustrate the power of evolutionary processes.
+
 ## Curated Papers
 
-- **Coming Soon**
+### PLOS (Public Library of Science)
+
+PLOS is a non-profit organization on a mission to drive open science forward with measurable, meaningful change in research publishing, policy and practice. 
+
+PLOS is a mission-driven open science publisher covering all scientific disciplines with a focus on fundamental and applied research across life, health, sustainability, engineering, and technology. 
+
+- **[Evolutionary Biology](https://journals.plos.org/plosone/browse/evolutionary_biology)** - PLOS ONE is a peer-reviewed open access scientific journal published by the Public Library of Science (PLOS) since 2006. PLOS ONE accepts research in all areas of science and medicine, including evolutionary biology.
+
+- **[PLOS Biology: Evolutionary Biology](https://journals.plos.org/plosbiology/browse/evolutionary_biology)** - PLOS Biology is a peer-reviewed scientific journal covering all aspects of biology, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2003.
+
+- **[PLOS Genetics: Evolutionary Biology](https://journals.plos.org/plosgenetics/browse/evolutionary_biology)** - PLOS Genetics is a peer-reviewed scientific journal covering all aspects of genetics, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2005.
+
+### Search
+
+- **[PubMed](https://pubmed.ncbi.nlm.nih.gov/)** - PubMed is a free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics. The United States National Library of Medicine (NLM) at the National Institutes of Health maintains the database as part of the Entrez system of information retrieval.
 
 ## Genome Mapping Projects
 
