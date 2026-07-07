@@ -107,9 +107,9 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ### PLOS (Public Library of Science)
 
-PLOS is a non-profit organization on a mission to drive open science forward with measurable, meaningful change in research publishing, policy and practice. 
+PLOS is a non-profit organization on a mission to drive open science forward with measurable, meaningful change in research publishing, policy and practice.
 
-PLOS is a mission-driven open science publisher covering all scientific disciplines with a focus on fundamental and applied research across life, health, sustainability, engineering, and technology. 
+PLOS is a mission-driven open science publisher covering all scientific disciplines with a focus on fundamental and applied research across life, health, sustainability, engineering, and technology.
 
 - **[Evolutionary Biology](https://journals.plos.org/plosone/browse/evolutionary_biology)** - PLOS ONE is a peer-reviewed open access scientific journal published by the Public Library of Science (PLOS) since 2006. PLOS ONE accepts research in all areas of science and medicine, including evolutionary biology.
 
