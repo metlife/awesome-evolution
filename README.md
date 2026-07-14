@@ -25,6 +25,7 @@ This list focuses on collecting and sharing information about biological evoluti
 - [Science and Evolution Communicators](#science-and-evolution-communicators)
 - [Recommended Books](#recommended-books)
 - [Curated Papers](#curated-papers)
+  - [Endogenous Retroviruses (ERVs)](#endogenous-retroviruses-ervs)
   - [PLOS (Public Library of Science)](#plos-public-library-of-science)
   - [Search](#search)
 - [Genome Mapping Projects](#genome-mapping-projects)
@@ -106,6 +107,10 @@ This list focuses on collecting and sharing information about biological evoluti
 - **[The Greatest Show on Earth: The Evidence for Evolution](https://www.amazon.com/Greatest-Show-Earth-Evidence-Evolution/dp/055277524X/)** - In this book, Richard Dawkins presents the evidence for evolution in a way that is accessible to the general public. He explains how natural selection works and provides numerous examples from the natural world to illustrate the power of evolutionary processes.
 
 ## Curated Papers
+
+### Endogenous Retroviruses (ERVs)
+
+- **[Awesome ERV List](erv.md)** - A curated list of research papers and resources on endogenous retroviruses (ERVs), which are viral sequences that have integrated into the genomes of their host organisms over evolutionary time. This list includes seminal papers on the use of ERVs to reconstruct primate phylogenies, as well as recent studies on the origin and evolution of human endogenous retroviruses (HERVs) in primates.
 
 ### PLOS (Public Library of Science)
 

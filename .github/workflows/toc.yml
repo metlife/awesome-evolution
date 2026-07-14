@@ -20,4 +20,4 @@ jobs:
         with:
           TOC_TITLE: "## Contents"
           CREATE_PR: true
-          TARGET_PATHS: "README.md,CONTRIBUTING.md"
+          TARGET_PATHS: "README.md,CONTRIBUTING.md,erv.md"
