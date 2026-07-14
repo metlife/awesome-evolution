@@ -11,6 +11,7 @@ title: Awesome ERV List
 
 - [Primate Research Papers](#primate-research-papers)
 - [Vertebrate Research Papers](#vertebrate-research-papers)
+- [General ERV Papers](#general-erv-papers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,3 +30,9 @@ title: Awesome ERV List
 - **[Koala retrovirus: a genome invasion in real time](https://link.springer.com/article/10.1186/gb-2006-7-11-241/)** - 2006. Stoye. This paper provides an overview of the discovery and characterization of the koala retrovirus (KoRV), which is currently invading the koala genome. The author discusses the implications of this invasion for koala health and conservation, as well as the potential for KoRV to serve as a model for studying retroviral evolution and host-virus interactions.
 
 - **[Diversity and transmission of koala retrovirus: a case study in three captive koala populations](https://www.nature.com/articles/s41598-022-18939-6/)** - 2022. Joyce, et al. This paper provides a detailed analysis of the diversity and transmission of koala retrovirus (KoRV) in three captive koala populations. The authors used a combination of genomic and epidemiological analyses to investigate the prevalence and diversity of KoRV in these populations, and found that KoRV is highly diverse and can be transmitted both vertically and horizontally.
+
+## General ERV Papers
+
+- **[Whole-genome comparison of endogenous retrovirus segregation across wild and domestic host species populations](https://www.pnas.org/doi/10.1073/pnas.1815056115/)** - 2019. Belyi, Levine, Skalka. This paper provides a comprehensive analysis of the segregation of endogenous retroviruses (ERVs) across wild and domestic host species populations. The authors used whole-genome sequencing data to investigate the distribution and diversity of ERVs in a variety of host species, and found that ERV segregation is influenced by both host population structure and viral evolutionary dynamics.
+
+- **[Reconstruction of a replication-competent ancestral murine endogenous retrovirus-L](https://link.springer.com/article/10.1186/s12977-018-0416-3/)** - 2018. Lee, et al. This paper describes the reconstruction of a replication-competent ancestral murine endogenous retrovirus-L (ERV-L). The authors used a combination of phylogenetic and molecular techniques to reconstruct the ancestral ERV-L sequence, and demonstrated that the reconstructed virus is capable of replication in vitro. This study provides valuable insights into the evolution and biology of ERVs, and highlights the potential for using reconstructed viruses to study viral evolution and host-virus interactions.
