@@ -176,7 +176,7 @@ These are the gold standards of the bioinformatics community, hosting massive re
 
 - **[Ensembl Genome Browser](https://www.ensembl.org/)** - A joint project between EMBL-EBI and the Wellcome Sanger Institute, Ensembl focuses heavily on high-quality annotation, particularly for vertebrate genomes.
 
-- **[National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)** - The NCBI is a division of the National Library of Medicine (NLM) at the National Institutes of Health (NIH). It houses a massive collection of genomic data, including the GenBank database, which contains annotated collections of all publicly available DNA sequences. This browser seamlessly integrates with the entire NCBI/PubMed ecosystem.
+- **[NCBI Genome Data Viewer (NCBI)](https://www.ncbi.nlm.nih.gov/genome/gdv/)** - The NCBI is a division of the National Library of Medicine (NLM) at the National Institutes of Health (NIH). It houses a massive collection of genomic data, including the GenBank database, which contains annotated collections of publicly available DNA sequences. Genome Data Viewer integrates seamlessly with the broader NCBI/PubMed ecosystem.
 
 - **[UCSC Primates Genomes Assembly Hubs](https://hgdownload.gi.ucsc.edu/hubs/primates/)** - The University of California, Santa Cruz (UCSC) Genome Browser hosts a collection of genome assembly hubs for various primate species. These hubs provide access to high-quality genome assemblies and annotations for researchers studying primate evolution and comparative genomics.
 
