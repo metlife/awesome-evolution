@@ -2,3 +2,12 @@ theme: jekyll-theme-architect
 title: Awesome Evolution
 description: A curated list of awesome Evolution resources. Please feel free to contribute!
 author: Tim Tyler
+plugins:
+  - jekyll-readme-index
+  - jekyll-relative-links
+
+readme_index:
+  remove_originals: true
+
+relative_links:
+  enabled: true
