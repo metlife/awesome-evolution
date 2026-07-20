@@ -12,6 +12,9 @@ title: Awesome Genetics List
 ## Contents
 
 - [Whales](#whales)
+- [Gain of Function](#gain-of-function)
+  - [Polar Ice Fish Adaptations](#polar-ice-fish-adaptations)
+  - [The Human ARHGAP11B Gene](#the-human-arhgap11b-gene)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
