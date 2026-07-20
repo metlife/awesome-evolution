@@ -40,7 +40,7 @@ title: Awesome Genetics List
 
 ### Polar Ice Fish Adaptations
 
-Ocurring in both the Artic and Antarctic, polar ice fish have evolved a number of adaptations to survive in extreme cold environments. These adaptations include the evolution of antifreeze proteins, which prevent ice crystal formation in their blood, and the loss of hemoglobin and myoglobin, which reduces the viscosity of their blood and allows for more efficient oxygen transport.
+Occurring in both the Arctic and Antarctic, polar ice fish have evolved a number of adaptations to survive in extreme cold environments. These adaptations include the evolution of antifreeze proteins, which prevent ice crystal formation in their blood, and the loss of hemoglobin and myoglobin, which reduces the viscosity of their blood and allows for more efficient oxygen transport.
 
 This is one of the most stunning instances of convergent molecular evolution ever discovered.
 
