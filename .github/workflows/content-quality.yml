@@ -1,0 +1,17 @@
+name: ✅ Content Quality
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Validate awesome-list structure
+        run: python3 scripts/validate_awesome_list.py

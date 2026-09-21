@@ -94,7 +94,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[AronRa](https://www.youtube.com/user/AronRa)** - Aron Ra is an author, public speaker, and science communicator who serves as one of the most prominent advocates for evolutionary education on the web. His series "The Systematic Classification of Life" serves as an exhaustive, multi-part masterclass that tracks the human evolutionary lineage from single-celled eukaryotic organisms all the way to Homo sapiens, providing an uncompromised defense of common descent.
 
-- **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Outstanding content from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!
+- **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Outstanding content from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!.
 
 - **[The Common Descent Podcast](https://commondescentpodcast.com/)** - Run by professional paleontologists and educators, this digital hub bridges the gap between deep time fossil records and modern evolutionary genetics.
 

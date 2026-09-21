@@ -7,6 +7,7 @@ Your contributions are always welcome!
 ## Contents
 
 - [Contribute via Git](#contribute-via-git)
+- [Quality checks before submitting](#quality-checks-before-submitting)
 - [I want to suggest a change](#i-want-to-suggest-a-change)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -62,6 +63,23 @@ Helpful GitHub guides:
 
 - [Fork a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+
+## Quality checks before submitting
+
+Before opening a PR, please verify the following:
+
+- The resource is a strong fit for the relevant section.
+- The entry uses the standard Awesome List format: `- **[resource-name](https://example.com/)** - A short description ends with a dot.`
+- The URL is live and points to a relevant source or project page.
+- The description is concise, informative, and ends with a period.
+- The resource is not already listed elsewhere in this repository under the same or a near-identical title.
+- Your change does not create duplicate links or duplicate titles in the same file.
+
+The repository runs automated validation for markdown structure and resource entries in CI. If you are editing `README.md` or another curated resource list, please run the local validation step before submitting:
+
+```bash
+python3 scripts/validate_awesome_list.py
+```
 
 ## I want to suggest a change
 
