@@ -28,6 +28,14 @@ title: Awesome Genetics List
 
 ## Gain of Function
 
+- **[Genomic Analysis of a Key Innovation in an Experimental E. coli Population](https://pmc.ncbi.nlm.nih.gov/articles/PMC3461117/)** - Blount, et al. 2012. The authors conducted a genomic analysis of an experimental E. coli population to investigate the genetic basis of a key innovation, providing insights into the mechanisms of evolutionary adaptation.
+
+- **[X-ray Crystallographic Analysis of 6-Aminohexanoate-Dimer Hydrolase - MOLECULAR BASIS FOR THE BIRTH OF A NYLON OLIGOMER-DEGRADING ENZYME](https://www.jbc.org/article/S0021-9258(20)59178-3/fulltext)** - Negoro, et al. 2005.The authors conducted an X-ray crystallographic analysis of 6-aminohexanoate-dimer hydrolase, providing insights into the structural basis of its enzymatic function.
+
+  - **[Nylon-oligomer Degrading Enzyme/Substrate Complex: Catalytic Mechanism of 6-Aminohexanoate-dimer Hydrolase](https://www.sciencedirect.com/science/article/abs/pii/S0022283607005347)** - Negoro, et al. 2007. The authors investigated the catalytic mechanism of 6-aminohexanoate-dimer hydrolase through structural analysis of the enzyme/substrate complex, providing insights into its enzymatic function.
+
+  - **[Three-dimensional Structure of Nylon Hydrolase and Mechanism of Nylon-6 Hydrolysis*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3281642/)** - Negoro, et al. 2011. The authors investigated the three-dimensional structure of nylon hydrolase and elucidated the mechanism of Nylon-6 hydrolysis, providing insights into the enzymatic function and evolution of nylon-degrading enzymes.
+
 - **[Evolutionary resurrection of flagellar motility via rewiring of the nitrogen regulation system](https://eprints.whiterose.ac.uk/id/eprint/111864/1/Flagellum%20paper%20Last%20Submitted%20Version.pdf)** - 2015. The authors investigated the evolutionary resurrection of flagellar motility in bacteria through the rewiring of the nitrogen regulation system, providing insights into the mechanisms underlying the evolution of complex traits.
 
 - **[Transcription factor expression levels and environmental signals constrain transcription factor innovation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10482368/)** - 2023. The authors investigated the relationship between transcription factor expression levels, environmental signals, and the innovation of transcription factors, providing insights into the constraints on transcription factor evolution.
