@@ -54,6 +54,8 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Human Evolution - Natural History Museum](https://www.nhm.ac.uk/discover/human-evolution.html)** - The Natural History Museum's human evolution hub provides an accessible overview of our species' history, tracking major anatomical and cultural milestones from the dawn of bipedalism to modern Homo sapiens. Through expert articles and fossil highlights, the page examines how changing environments shaped ancient hominin lineages and explores the cutting-edge DNA research used to trace human origins.
 
+- **[TWiEVO - This Week in Evolution](https://www.microbe.tv/twievo/)** - A podcast and blog series that discusses recent developments and research in evolutionary biology, providing insights and commentary from experts in the field.
+
 - **[OneZoom](https://www.onezoom.org/)** - OneZoom is a visual masterpiece of computational biology. It provides an interactive, fractal-based, dynamic map of the evolutionary relationships between over 2.2 million living species.
 
 - **[The European Molecular Biology Laboratory](https://www.embl.org/)** - With support from more than 30 countries, the European Molecular Biology Laboratory (EMBL) has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.
@@ -92,9 +94,9 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Science and Evolution Communicators
 
-- **[AronRa](https://www.youtube.com/user/AronRa)** - Aron Ra is an author, public speaker, and science communicator who serves as one of the most prominent advocates for evolutionary education on the web. His series "The Systematic Classification of Life" serves as an exhaustive, multi-part masterclass that tracks the human evolutionary lineage from single-celled eukaryotic organisms all the way to Homo sapiens, providing an uncompromised defense of common descent.
-
 - **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Outstanding content from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!.
+
+- **[AronRa](https://www.youtube.com/user/AronRa)** - Aron Ra is an author, public speaker, and science communicator who serves as one of the most prominent advocates for evolutionary education on the web. His series "The Systematic Classification of Life" serves as an exhaustive, multi-part masterclass that tracks the human evolutionary lineage from single-celled eukaryotic organisms all the way to Homo sapiens, providing an uncompromised defense of common descent.
 
 - **[The Common Descent Podcast](https://commondescentpodcast.com/)** - Run by professional paleontologists and educators, this digital hub bridges the gap between deep time fossil records and modern evolutionary genetics.
 
@@ -105,6 +107,8 @@ This list focuses on collecting and sharing information about biological evoluti
 - **[Human Evolution: Genes, Genealogies and Phylogenies](https://www.amazon.com/Human-Evolution-Genes-Genealogies-Phylogenies/dp/1107040124/)** - Dr. Graeme Finlay is a retired Senior Lecturer in scientific pathology, Department of Molecular Medicine and Pathology, and Honorary Senior Research Fellow, Auckland Cancer Society Research Centre, at the University of Auckland. The human genome project and genetic sequencing of many other species have provided myriad precise and unambiguous genetic markers that establish our evolutionary relationships with other mammals.
 
 - **[The Selfish Gene: 50th Anniversary Edition](https://www.amazon.com/Selfish-Gene-50th-Anniversary-dp-019898538X/dp/019898538X/)** - Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.
+
+- [What Evolution Is](https://www.amazon.com/What-Evolution-Science-Masters-Ernst-ebook/dp/B008724J1E/)** - Ernst Mayr - At once a spirited defense of Darwinian explanations of biology and an elegant primer on evolution for the general reader, What Evolution Is poses the questions at the heart of evolutionary theory and considers how our improved understanding of evolution has affected the viewpoints and values of modern man. [full text](https://www.academia.edu/25678256/What_evolution_is/)
 
 - **[Your Inner Fish: A Journey into the 3.5-Billion-Year History of the Human Body](https://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0307277453/)** - Neil Shubin is the author of the best-selling Your Inner Fish, which was chosen by the National Academy of Sciences as the best book of the year in 2009. Trained at Columbia, Harvard, and the University of California at Berkeley, Shubin is associate dean of biological sciences at the University of Chicago. In 2011 he was elected to the National Academy of Sciences.
 
